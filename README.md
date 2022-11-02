@@ -36,9 +36,7 @@ Console Application (no UI) to implement following functionalities:
 
 
 Example UI:
-<img width="1135" alt="image" src="https://user-images.githubusercontent.com/87394060/199394019-3b762cfe-ba94-4843-b36f-252bc9c1d47e.png">
-
-
+<img width="781" alt="image" src="https://user-images.githubusercontent.com/87394060/199394107-477e5d1a-aac4-4ec7-8465-798d6bde5c1a.png">
 
 
 
