@@ -24,5 +24,23 @@ functionality for the athletes (not the medical practitioners); however, the des
 ![Screen Shot 2022-10-22 at 7 03 18 PM](https://user-images.githubusercontent.com/87394060/199393097-db059b77-7eb4-4469-a45d-0603761c2b27.png)
 
 
+## Supported Functionality
+
+Console Application (no UI) to implement following functionalities:
+
+1. Athletes to enter Symptoms based on the Risk Factor
+2. Application will calcuate the Risk Factor
+3. Application will save symptoms data for last 5 gaves and show the data to athlete on request
+4. show athelte if he/she/they is at risk
+5. Exit the application
+
+
+Example UI:
+<img width="1135" alt="image" src="https://user-images.githubusercontent.com/87394060/199394019-3b762cfe-ba94-4843-b36f-252bc9c1d47e.png">
+
+
+
+
+
 
 
