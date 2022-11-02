@@ -19,4 +19,10 @@ functionality for the athletes (not the medical practitioners); however, the des
 ![Screen Shot 2022-10-22 at 1 44 59 PM](https://user-images.githubusercontent.com/87394060/199393000-5b3e5662-821e-483a-8241-3762328dc2e2.png)
 
 
+### Class Diagram 
+
+![Screen Shot 2022-10-22 at 7 03 18 PM](https://user-images.githubusercontent.com/87394060/199393097-db059b77-7eb4-4469-a45d-0603761c2b27.png)
+
+
+
 
