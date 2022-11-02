@@ -16,6 +16,7 @@ functionality for the athletes (not the medical practitioners); however, the des
 ### Use Case Diagram
 
 
+![Screen Shot 2022-10-22 at 1 44 59 PM](https://user-images.githubusercontent.com/87394060/199393000-5b3e5662-821e-483a-8241-3762328dc2e2.png)
 
 
 
